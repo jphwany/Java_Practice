@@ -1,2 +1,2 @@
 # java_OOP
-OOP Practice
+Java Practice
